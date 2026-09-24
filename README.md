@@ -1,4 +1,5 @@
 # AWT Course Catalog
+Alua Issimbayeva It3-2301
 
 Semester project for the **Advanced Web Technologies** course — Lab 1: project scaffold, App Router, TypeScript, and a first Client Component.
 
