@@ -1,7 +1,7 @@
 # AWT Course Catalog
 Alua Issimbayeva It3-2301
 
-Semester project for the **Advanced Web Technologies** course. A Next.js frontend for a course catalog whose data comes from the FastAPI backend [course-catalog-api](https://github.com/alua-issimbayeva/course-catalog-api).
+Semester project for the **Advanced Web Technologies** course. A Next.js frontend for a course catalog whose data comes from the FastAPI backend [backend-fastapi](https://github.com/alua-issimbayeva/backend-fastapi).
 
 - **Lab 1:** project scaffold, App Router, TypeScript, and a first Client Component.
 - **Lab 2:** styled with Tailwind CSS and shadcn/ui. `CourseCard` is built on shadcn `Card`/`Button` with a hover effect, the `/courses` grid is responsive (1 / 2 / 3 / 4 columns at base / `sm` / `lg` / `xl`), and the nav bar is padded with hover states.
