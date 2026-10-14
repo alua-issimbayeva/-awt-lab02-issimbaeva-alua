@@ -13,7 +13,11 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={cn("font-sans", geist.variable)}>
+    <html
+      lang="en"
+      className={cn("font-sans", geist.variable)}
+      suppressHydrationWarning
+    >
       <body>
         <nav className="flex gap-4 px-6 py-4 border-b border-slate-200">
           <Link href="/" className="px-3 py-2 rounded-md hover:bg-slate-100">
